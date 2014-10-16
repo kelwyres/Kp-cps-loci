@@ -1,0 +1,158 @@
+>Feature cpsA
+1	897	CDS
+			locus_tag	K242An_00001
+			gene	galF
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	galF UDP-glucose pyrophosphorylase
+1289	1918	CDS
+			locus_tag	K242An_00002
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative acid phosphatase
+2878	4311	CDS
+			locus_tag	K242An_00003
+			gene	wzi
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wzi capsule assembly protein
+2878	2901	sig_peptide
+			locus_tag	K242An_00003
+			gene	wza
+			inference	ab initio prediction:SignalP:4.0
+			note	predicted cleavage at residue 22
+4457	5593	CDS
+			locus_tag	K242An_00004
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wza integral outer membrane lipoprotein
+5596	6030	CDS
+			locus_tag	K242An_00005
+			gene	wzb
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wzb protein tyrosine phosphatase
+6045	8225	CDS
+			locus_tag	K242An_00006
+			gene	wzc
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wzc inner membrane tyrosine autokinase
+8246	9580	CDS
+			locus_tag	K242An_00007
+			gene	wzxC
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wzxC lipopolysaccharide biosynthesis protein
+9570	10670	CDS
+			locus_tag	K242An_00008
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative glycosyltransferase
+10660	11637	CDS
+			locus_tag	K242An_00009
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	polysaccharide pyruvyl transferase
+11654	12898	CDS
+			locus_tag	K242An_00010
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative glycosyltransferase
+12885	14087	CDS
+			locus_tag	K242An_00011
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative colanic acid biosynthesis protein WcaD
+14103	14858	CDS
+			locus_tag	K242An_00012
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative glycosyltransferase
+14855	15403	CDS
+			locus_tag	K242An_00013
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative acetyltransferase
+15461	16579	CDS
+			locus_tag	K242An_00014
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	GDP-D-mannose dehydratase
+16586	17551	CDS
+			locus_tag	K242An_00015
+			gene	wcaG
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wcaG GDP-fucose synthetase
+17555	18004	CDS
+			locus_tag	K242An_00016
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative GDP-mannose hydrolase
+18015	19241	CDS
+			locus_tag	K242An_00017
+			gene	wcaI
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wcaI colonic biosynthesis glycosyl transferase
+19399	20799	CDS
+			locus_tag	K242An_00018
+			gene	rfbp
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	rfbp glycosyltransferase
+22224	20875	CDS
+			locus_tag	K242An_00019
+			gene	wcaM
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wcaM putative colanic acid biosynthesis protein
+22423	23829	CDS
+			locus_tag	K242An_00020
+			gene	gnd
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	gnd 6-phosphogluconate dehydrogenase
+24074	25489	CDS
+			locus_tag	K242An_00021
+			gene	manC
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	manC mannose-1-phosphate guanylyltransferase
+25511	26881	CDS
+			locus_tag	K242An_00022
+			gene	manB
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	manB phosphomannomutase
+27045	28211	CDS
+			locus_tag	K242An_00023
+			gene	ugd
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	ugd UDP-glucose 6-dehydrogenase
+

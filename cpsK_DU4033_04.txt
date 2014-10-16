@@ -1,0 +1,146 @@
+>Feature cpsK_DU4033_04
+1	897	CDS
+			locus_tag	DU4033/04_00001
+			gene	galF
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	galF UDP-glucose pyrophosphorylase
+1290	1919	CDS
+			locus_tag	DU4033/04_00002
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative acid phosphatase
+2879	4312	CDS
+			locus_tag	DU4033/04_00003
+			gene	wzi
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wzi capsule assembly protein
+2879	2902	sig_peptide
+			locus_tag	DU4033/04_00003
+			inference	ab initio prediction:SignalP:4.0
+			note	predicted cleavage at residue 22
+4458	5597	CDS
+			locus_tag	DU4033/04_00004
+			gene	wza
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wza integral outer membrane lipoprotein
+5597	6031	CDS
+			locus_tag	DU4033/04_00005
+			gene	wzb
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wzb protein tyrosine phosphatase
+6048	8207	CDS
+			locus_tag	DU4033/04_00006
+			gene	wzc
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wzc inner membrane tyrosine autokinase
+8452	9879	CDS
+			locus_tag	DU4033/04_00007
+			gene	wbaP
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wbaP undecaprenolphosphate Gal-1-P transferase
+9946	10857	CDS
+			locus_tag	DU4033/04_00008
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative glycosylhydrolase
+11024	11992	CDS
+			locus_tag	DU4033/04_00009
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative glycosyltransferase
+12056	12892	CDS
+			locus_tag	DU4033/04_00010
+			gene	wcaN
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wcaN glycosyltransferase
+12882	13796	CDS
+			locus_tag	DU4033/04_00011
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	hypothetical protein
+13858	15624	CDS
+			locus_tag	DU4033/04_00012
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	hypothetical protein
+15670	16854	CDS
+			locus_tag	DU4033/04_00013
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	hypothetical protein
+17622	19094	CDS
+			locus_tag	DU4033/04_00014
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative transmembrane transport protein
+19091	20038	CDS
+			locus_tag	DU4033/04_00015
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	hyaluronan synthase
+20031	20873	CDS
+			locus_tag	DU4033/04_00016
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative glycosyltransferase
+21101	22507	CDS
+			locus_tag	DU4033/04_00017
+			gene	gnd
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	gnd 6-phosphogluconate dehydrogenase
+22730	23794	CDS
+			locus_tag	DU4033/04_00018
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	dTDP-glucose 4,6-dehydratase
+23821	24690	CDS
+			locus_tag	DU4033/04_00019
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	glucose-1-phosphate thymidylyltransferase
+24722	25612	CDS
+			locus_tag	DU4033/04_00020
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	dTDP-4-dehydrorhamnose reductase
+25627	26181	CDS
+			locus_tag	DU4033/04_00021
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	colanic acid transport protein
+26362	27528	CDS
+			locus_tag	DU4033/04_00022
+			gene	ugd
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	ugd UDP-glucose 6-dehydrogenase

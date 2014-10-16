@@ -1,0 +1,167 @@
+>Feature cpsF_DM23092_04
+1	897	CDS
+			locus_tag	DM23092/04_00001
+			gene	galF
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	galF UDP-glucose pyrophosphorylase
+1290	1919	CDS
+			locus_tag	DM23092/04_00002
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative acid phosphatase
+2864	4297	CDS
+			locus_tag	DM23092/04_00003
+			gene	wzi
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wzi capsule assembly protein
+2864	2887	sig_peptide
+			locus_tag	DM23092/04_00003
+			gene	wza
+			inference	ab initio prediction:SignalP:4.0
+			note	predicted cleavage at residue 24
+4440	5576	CDS
+			locus_tag	DM23092/04_00004
+			gene	wza
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wza integral outer membrane lipoprotein
+5577	6011	CDS
+			locus_tag	DM23092/04_00005
+			gene	wzb
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wzb protein tyrosine phosphatase
+6028	8202	CDS
+			locus_tag	DM23092/04_00006
+			gene	wzc
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wzc inner membrane tyrosine autokinase
+8305	9828	CDS
+			locus_tag	DM23092/04_00007
+			gene	wzx
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative Wzx flippase protein
+9833	10705	CDS
+			locus_tag	DM23092/04_00008
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	polysaccharide pyruvyl transferase
+10724	11680	CDS
+			locus_tag	DM23092/04_00009
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	hypothetical protein
+11736	12947	CDS
+			locus_tag	DM23092/04_00010
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	hypothetical protein
+12971	13948	CDS
+			locus_tag	DM23092/04_00011
+			gene	wcaN
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wcaN glycosyltransferase
+13953	14987	CDS
+			locus_tag	DM23092/04_00012
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative glycosyltransferase
+14996	16120	CDS
+			locus_tag	DM23092/04_00013
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative glycosyltransferase
+16148	17158	CDS
+			locus_tag	DM23092/04_00014
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	dTDP-4-dehydrorhamnose reductase
+16148	16168	sig_peptide
+			locus_tag	DM23092/04_00014
+			inference	ab initio prediction:SignalP:4.0
+			note	predicted cleavage at residue 20
+17231	18385	CDS
+			locus_tag	DM23092/04_00015
+			gene	wbaZ
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wbaZ glycosyltransferase
+18451	19848	CDS
+			locus_tag	DM23092/04_00016
+			gene	rfbp
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	rfbp glycosyltransferase
+20154	21560	CDS
+			locus_tag	DM23092/04_00017
+			gene	gnd
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	gnd 6-phosphogluconate dehydrogenase
+21787	23202	CDS
+			locus_tag	DM23092/04_00018
+			gene	manC
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	manC mannose-1-phosphate guanylyltransferase
+23224	24594	CDS
+			locus_tag	DM23092/04_00019
+			gene	manB
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	manB phosphomannomutase
+24749	25813	CDS
+			locus_tag	DM23092/04_00020
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	dTDP-D-glucose 4,6-dehydratase
+25827	26696	CDS
+			locus_tag	DM23092/04_00021
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	glucose-1-phosphate thymidylyltransferase
+26728	27618	CDS
+			locus_tag	DM23092/04_00022
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	dTDP-4-dehydrorhamnose reductase
+27633	28187	CDS
+			locus_tag	DM23092/04_00023
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	colanic acid transport protein
+28367	29533	CDS
+			locus_tag	DM23092/04_00024
+			gene	ugd
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	ugd UDP-glucose 6-dehydrogenase

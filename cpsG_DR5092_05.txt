@@ -1,0 +1,125 @@
+>Feature cpsG_DR5092_05
+1	897	CDS
+			locus_tag	DR5092_05_00001
+			gene	galF
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	galF UDP-glucose pyrophosphorylase
+1290	1919	CDS
+			locus_tag	DR5092_05_00002
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative acid phosphatase
+2878	4311	CDS
+			locus_tag	DR5092_05_00003
+			gene	wzi
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wzi capsule assembly protein
+2878	2901	sig_peptide
+			locus_tag	DR5092_05_00003
+			inference	ab initio prediction:SignalP:4.0
+			note	predicted cleavage at residue 22
+4457	5593	CDS
+			locus_tag	DR5092_05_00004
+			gene	wza
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wza integral outer membrane lipoprotein
+5593	6027	CDS
+			locus_tag	DR5092_05_00005
+			gene	wzb
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wzb protein tyrosine phosphatase
+6044	8209	CDS
+			locus_tag	DR5092_05_00006
+			gene	wzc
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wzc inner membrane tyrosine autokinase
+8310	8540	CDS
+9390	10568
+			locus_tag	DR5092_05_00007
+			gene	wbaP
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wbaP undecaprenolphosphate Gal-1-P transferase
+			note	CDS interrupted by transposase
+8748	9318	CDS
+			locus_tag	DR5092_05_00008
+			product	putative IS1 transposase
+			note	sequence not complete
+10602	11831	CDS
+			locus_tag	DR5092_05_00009
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	hypothetical protein
+11867	12712	CDS
+			locus_tag	DR5092_05_00010
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	glycosyltransferase family 2 protein
+12735	13613	CDS
+			locus_tag	DR5092_05_00011
+			gene	wcaN
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wcaN glycosyltransferase
+13631	14932	CDS
+			locus_tag	DR5092_05_00012
+			gene	wzx
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wzx flippase
+14925	15683	CDS
+			locus_tag	DR5092_05_00013
+			gene	wcaN
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wcaN glycosyltransferase
+15680	16711	CDS
+			locus_tag	DR5092_05_00014
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative glycosyltransferase
+16730	18169	CDS
+			locus_tag	DR5092_05_00015
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	hypothetical protein
+18199	21648	CDS
+			locus_tag	DR5092_05_00016
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	hypothetical protein
+21868	23274	CDS
+			locus_tag	DR5092_05_00017
+			gene	gnd
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	gnd 6-phosphogluconate dehydrogenase
+23467	24633	CDS
+			locus_tag	DR5092_05_00018
+			gene	ugd
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	ugd UDP-glucose 6-dehydrogenase
+

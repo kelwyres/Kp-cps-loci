@@ -1,0 +1,118 @@
+>Feature cpsH_ATCCBAA_2146
+1	897	CDS
+			locus_tag	ATCC_BAA_2146_00001
+			gene	galF
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	galF UTP-glucose-1-phosphate uridylyltransferase
+
+1358	1987	CDS
+			locus_tag	ATCC_BAA_2146_00002
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative acid phosphatase
+2992	4431	CDS
+			locus_tag	ATCC_BAA_2146_00003
+			gene	wzi
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wzi capsule assembly protein
+2992	3015	sig_peptide
+			locus_tag	ATCC_BAA_2146_00003
+			inference	ab initio prediction:SignalP:4.0
+			note	predicted cleavage at residue 24
+4505	5641	CDS
+			locus_tag	ATCC_BAA_2146_00004
+			gene	wza
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wza integral outer membrane lipoprotein
+5646	6080	CDS
+			locus_tag	ATCC_BAA_2146_00005
+			gene	wzb
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wzb protein tyrosine phosphatase
+6097	8262	CDS
+			locus_tag	ATCC_BAA_2146_00006
+			gene	wzc
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wzc inner membrane tyrosine autokinase
+8347	9768	CDS
+			locus_tag	ATCC_BAA_2146_00007
+			gene	wbaP
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wbaP undecaprenolphosphate Gal-1-P transferase
+9788	10930	CDS
+			locus_tag	ATCC_BAA_2146_00008
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative glycosyltransferase
+10956	11942	CDS
+			locus_tag	ATCC_BAA_2146_00009
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	mannosyltransferase
+12114	13250	CDS
+			locus_tag	ATCC_BAA_2146_00010
+			gene	wbaZ
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wbaZ glycosyltransferase
+13277	14509	CDS
+			locus_tag	ATCC_BAA_2146_00011
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative O-antigen ligase
+14555	16207	CDS
+			locus_tag	ATCC_BAA_2146_00012
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	hypothetical protein
+16350	17822	CDS
+			locus_tag	ATCC_BAA_2146_00013
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	colanic acid transport protein
+17828	18784	CDS
+			locus_tag	ATCC_BAA_2146_00014
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	polysaccharide pyruvyl transferase
+18781	19770	CDS
+			locus_tag	ATCC_BAA_2146_00015
+			gene	wcaN
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wcaN glycosyltransferase
+19941	21347	CDS
+			locus_tag	ATCC_BAA_2146_00016
+			gene	gnd
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	gnd 6-phosphogluconate dehydrogenase
+21937	23103	CDS
+			locus_tag	ATCC_BAA_2146_00017
+			gene	ugd
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	ugd UDP-glucose 6-dehydrogenase

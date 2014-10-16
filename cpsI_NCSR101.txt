@@ -1,0 +1,184 @@
+>Feature cpsI_NCSR101
+1	897	CDS
+			locus_tag	NCSR101_00001
+			gene	galF
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	galF UDP-glucose pyrophosphorylase
+1290	1919	CDS
+			locus_tag	NCSR101_00002
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative acid phosphatase
+2553	3056	CDS
+			locus_tag	NCSR101_00003
+			codon_start	1
+			transl_table	11
+			product	IS1 transposase
+3801	5234	CDS
+			locus_tag	NCSR101_00004
+			gene	wzi
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wzi capsule assembly protein
+3801	3824	sig_peptide
+			locus_tag	NCSR101_00004
+			inference	ab initio prediction:SignalP:4.0
+			note	predicted cleavage at residue 22
+5380	6513	CDS
+			locus_tag	NCSR101_00005
+			gene	wza
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wza integral outer membrane lipoprotein
+6520	6951	CDS
+			locus_tag	NCSR101_00006
+			gene	wzb
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wzb protein tyrosine phosphatase
+6970	9141	CDS
+			locus_tag	NCSR101_00007
+			gene	wzc
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wzc inner membrane tyrosine autokinase
+9225	9944	CDS
+			locus_tag	NCSR101_00008
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	polysaccharide pyruvyl transferase
+9986	10174	CDS
+			locus_tag	NCSR101_00009
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	polysaccharide biosynthesis protein
+10178	10555	CDS
+			locus_tag	NCSR101_00010
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	polysaccharide biosynthesis protein
+10827	11858	CDS
+			locus_tag	NCSR101_00011
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	transposase
+11996	12262	CDS
+			locus_tag	NCSR101_00012
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	polysaccharide biosynthesis protein
+12680	13834	CDS
+			locus_tag	NCSR101_00013
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative glycosyltransferase 9383
+13821	15083	CDS
+			locus_tag	NCSR101_00014
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	hypothetical protein
+15083	16171	CDS
+			locus_tag	NCSR101_00015
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	glycosyltransferases group 1
+16183	17352	CDS
+			locus_tag	NCSR101_00016
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	glycosyltransferase group 1
+17368	18129	CDS
+			locus_tag	NCSR101_00017
+			gene	wecB
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wecB family glycosyltransferase
+18365	19609	CDS
+			locus_tag	NCSR101_00018
+			gene	wzx
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wzx flippase: forward MW:47650
+19894	20772	CDS
+			locus_tag	NCSR101_00019
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative polysaccharide synthesis protein
+21055	21330	CDS
+			locus_tag	NCSR101_00020
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	transposase
+21459	21752	CDS
+			locus_tag	NCSR101_00021
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	IS1 transposase
+21931	22299	CDS
+			locus_tag	NCSR101_00022
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative acyltransferase protein
+23358	22327	CDS
+			locus_tag	NCSR101_00023
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	transposase
+23844	25241	CDS
+			locus_tag	NCSR101_00024
+			gene	rfbp
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	rfbp glycosyltransferase
+25407	26813	CDS
+			locus_tag	NCSR101_00025
+			gene	gnd
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	gnd 6-phosphogluconate dehydrogenase
+27056	28471	CDS
+			locus_tag	NCSR101_00026
+			gene	manC
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	manC mannose-1-phosphate guanylyltransferase
+28494	29864	CDS
+			locus_tag	NCSR101_00027
+			gene	manB
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	manB phosphomannomutase
+30028	31194	CDS
+			locus_tag	NCSR101_00028
+			gene	ugd
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	ugd UDP-glucose 6-dehydrogenase

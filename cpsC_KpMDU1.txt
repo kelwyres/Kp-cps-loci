@@ -1,0 +1,146 @@
+>Feature cpsC_KpMDU1
+1	897	CDS
+			locus_tag	KpMDU1_00001
+			gene	galF
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	galF UDP-glucose pyrophosphorylase
+1291	1911	CDS
+			locus_tag	KpMDU1_00002
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative acid phosphatase
+2872	4305	CDS
+			locus_tag	KpMDU1_00003
+			gene	wzi
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wzi capsule assembly protein
+2872	2895	sig_peptide
+			locus_tag	C210_00003
+			inference	ab initio prediction:SignalP:4.0
+			note	predicted cleavage at residue 22
+4450	5590	CDS
+			locus_tag	KpMDU1_00004
+			gene	wza
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wza integral outer membrane lipoprotein pseudogene
+5590	6024	CDS
+			locus_tag	KpMDU1_00005
+			gene	wzb
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wzb protein tyrosine phosphatase
+6041	8213	CDS
+			locus_tag	KpMDU1_00006
+			gene	wzc
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wzc inner membrane tyrosine autokinase
+			note	CDS contains frameshift mutation
+8294	9439	CDS
+			locus_tag	KpMDU1_00007
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative O-antigen like membrane protein
+9456	10040	CDS
+			locus_tag	KpMDU1_00008
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative glycosyltransferase
+			note	putatve frameshift mutation leading to protein truncation
+10137	11030	CDS
+			locus_tag	KpMDU1_00009
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative glycosyltransferase
+11058	11785	CDS
+			locus_tag	KpMDU1_00010
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wecB family glycosyltransferase putative pseudogene
+			note	CDS contains putative frameshift mutation
+11809	12195	CDS
+			locus_tag	KpMDU1_00011
+			gene	wzx
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	Wzx flippase protein
+12709	12206	CDS
+			locus_tag	KpMDU1_00012
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	IS1 transposase
+12844	13239	CDS
+			locus_tag	KpMDU1_00013
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	IS2 repressor TnpA
+13257	14075	CDS
+			locus_tag	KpMDU1_00014
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	IS2 transposase TnpB
+14435	15262	CDS
+			locus_tag	KpMDU1_00015
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	glycosyltransferase 2 family protein
+15543	16872	CDS
+			locus_tag	KpMDU1_00016
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative transmembrane transport protein
+			note	CDS contains putative frameshift mutations
+17015	17932	CDS
+			locus_tag	KpMDU1_00017
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	glycosyltransferase 2 family protein
+			note	putative truncation due to frameshift mutation
+18901	20037	CDS
+			locus_tag	KpMDU1_00018
+			gene	rfbp
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	rfbp glycosyltransferase: forward MW:53175
+20221	21627	CDS
+			locus_tag	KpMDU1_00019
+			gene	gnd
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	gnd 6-phosphogluconate dehydrogenase
+22000	23009	CDS
+			locus_tag	KpMDU1_00020
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	acyltransferase
+			note	putative frameshift mutation or sequencing error. Annotated by comparison to cps Ci
+23172	24338	CDS
+			locus_tag	KpMDU1_00021
+			gene	ugd
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	ugd UDP-glucose 6-dehydrogenase

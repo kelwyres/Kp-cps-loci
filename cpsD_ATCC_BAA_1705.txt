@@ -1,0 +1,111 @@
+>Feature cps_D_ATCCBAA_1705
+1	897	CDS
+			locus_tag	ATCC BAA-1705_00001
+			gene	galF
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	galF UDP-glucose pyrophosphorylase
+1289	1918	CDS
+			locus_tag	ATCC BAA-1705_00002
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative acid phosphatase
+2878	4311	CDS
+			locus_tag	ATCC BAA-1705_00003
+			gene	wzi
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wzi capsule assembly protein
+2878	2901	sig_peptide
+			locus_tag	ATCC BAA-1705_00003
+			inference	ab initio prediction:SignalP:4.0
+			note	predicted cleavage at residue 22
+4457	5590	CDS
+			locus_tag	ATCC BAA-1705_00004
+			gene	wza
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wza integral outer membrane lipoprotein	
+5593	6027	CDS
+			locus_tag	ATCC BAA-1705_00005
+			gene	wzb
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wzb protein tyrosine phosphatase
+6043	8199	CDS
+			locus_tag	ATCC BAA-1705_00006
+			gene	wzc
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wzc inner membrane tyrosine autokinase	
+8303	9730	CDS
+			locus_tag	ATCC BAA-1705_00007
+			gene	wbaP
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wbaP undecaprenolphosphate Gal-1-P transferase
+9773	10681	CDS
+			locus_tag	ATCC BAA-1705_00008
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	rhamnosyltransferase
+10805	11701	CDS
+			locus_tag	ATCC BAA-1705_00009
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	rhamnosyltransferase
+11740	12501	CDS
+			locus_tag	ATCC BAA-1705_00010
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	glycosyltransferase
+13471	14877	CDS
+			locus_tag	ATCC BAA-1705_00011
+			gene	gnd
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	gnd 6-phosphogluconate dehydrogenase
+15102	16166	CDS
+			locus_tag	ATCC BAA-1705_00012
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	dTDP-glucose 4,6-dehydratase
+16193	17062	CDS
+			locus_tag	ATCC BAA-1705_00013
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	glucose-1-phosphate thymidylyltransferase
+
+17094	17984	CDS
+			locus_tag	ATCC BAA-1705_00014
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	dTDP-4-dehydrorhamnose reductase
+17999	18553	CDS
+			locus_tag	ATCC BAA-1705_00015
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	colanic acid transport protein
+18734	19900	CDS
+			locus_tag	ATCC BAA-1705_00016
+			gene	ugd
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	UDP-glucose 6-dehydrogenase
+

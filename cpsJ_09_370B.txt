@@ -1,0 +1,148 @@
+>Feature cpsJ_09_370B
+1	891	CDS
+			locus_tag	09_370B_00001
+			gene	galF
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	galF UTP-glucose-1-phosphate uridylyltransferase
+1357	1985	CDS
+			locus_tag	09_370B_00002
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative acid phosphatase pseudogene
+2988	4427	CDS
+			locus_tag	09_370B_00003
+			gene	wzi
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wzi capsule assembly protein
+2988	3011	sig_peptide
+			locus_tag	09_370B_00003
+			gene	wza
+			inference	ab initio prediction:SignalP:4.0
+			note	predicted cleavage at residue 24
+4501	5637	CDS
+			locus_tag	09_370B_00004
+			gene	wza
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wza integral outer membrane lipoprotein
+4501	4530	sig_peptide
+			locus_tag	09_370B_00004
+			inference	ab initio prediction:SignalP:4.0
+			note	predicted cleavage at residue 29
+5640	6074	CDS
+			locus_tag	09_370B_00005
+			gene	wzb
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wzb protein tyrosine phosphatase
+6092	8257	CDS
+			locus_tag	09_370B_00006
+			gene	wzc
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wzc inner membrane tyrosine autokinase
+8323	9765	CDS
+			locus_tag	09_370B_00007
+			gene	wbaP
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wbaP undecaprenolphosphate Gal-1-P transferase
+9819	10916	CDS
+			locus_tag	09_370B_00008
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	hypothetical protein
+11085	12080	CDS
+			locus_tag	09_370B_00009
+			gene	wcaN
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wcaN glycosyltransferase
+12077	12841	CDS
+			locus_tag	09_370B_00010
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	hypothetical protein
+12851	13525	CDS
+			locus_tag	09_370B_00011
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative glycosyltransferase
+13544	14464	CDS
+			locus_tag	09_370B_00012
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative glycosyltransferase
+14500	15612	CDS
+			locus_tag	09_370B_00013
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative glycosyl hydrolase
+15665	16759	CDS
+			locus_tag	09_370B_00014
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	UDP-galactopyranose mutase
+17174	18445	CDS
+			locus_tag	09_370B_00015
+			gene	wzx
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	wzx flippase
+18430	19320	CDS
+			locus_tag	09_370B_00016
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative polysaccharide synthesis protein
+19382	20788	CDS
+			locus_tag	09_370B_00017
+			gene	gnd
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	gnd 6-phosphogluconate dehydrogenase
+21154	21576	CDS
+			locus_tag	09_370B_00018
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	putative acyltransferase protein
+23588	22584	CDS
+			locus_tag	09_370B_00019
+			gene	gmd
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	gmd GDP-D-mannose dehydratase
+25188	26174	CDS
+			locus_tag	09_370B_00020
+			gene	manC
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	manC mannose-1-phosphate guanylyltransferase
+27448	28614	CDS
+			locus_tag	09_370B_00021
+			gene	ugd
+			inference	ab initio prediction:Prodigal:2.50
+			codon_start	1
+			transl_table	11
+			product	UDP-glucose 6-dehydrogenase
